@@ -5,3 +5,5 @@ DROP TABLE IF EXISTS albums;
         album_name VARCHAR(255),
         artist VARCHAR(255)
     );
+
+    
